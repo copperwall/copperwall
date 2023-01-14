@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🦣 For social stuff I'm mostly on Mastodon/Hachyderm <a rel="me" href="https://hachyderm.io/@copperwall">@copperwall</a>
+
 <!--
 **copperwall/copperwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
